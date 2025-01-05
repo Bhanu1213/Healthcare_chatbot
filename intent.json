@@ -1,0 +1,395 @@
+ [
+  {
+    "tag": "self_care",
+    "patterns": [
+        "Tell me about self-care",
+        "How to practice self-care",
+        "Importance of self-love"
+    ],
+    "responses": [
+        "Self-care involves taking care of one's physical, emotional, and mental well-being.",
+        "Prioritizing self-care can lead to improved overall health and a more balanced lifestyle."
+    ]
+},
+  {
+    "tag": "about",
+    "patterns": [
+        "What can you do",
+        "Who are you",
+        "What are you",
+        "What is your purpose"
+    ],
+    "responses": [
+        "I am a chatbot",
+        "My purpose is to assist you",
+        "I can answer questions and provide assistance"
+    ]
+},
+  {
+    "tag": "greeting",
+    "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "How are you",
+        "What's up"
+    ],
+    "responses": [
+        "Hi there",
+        "Hello",
+        "Hey",
+        "I'm fine, thank you",
+        "Nothing much"
+    ]
+},
+  {
+    "tag": "health",
+    "patterns": [
+        "How to stay healthy",
+        "Tell me about health tips",
+        "What's the importance of fitness"
+    ],
+    "responses": [
+        "To stay healthy, maintain a balanced diet, engage in regular physical activity, get enough sleep, manage stress, and avoid harmful habits.",
+        "Fitness is essential for overall well-being and can improve your mood, energy levels, and longevity."
+    ]
+},
+  {
+    "tag": "goodbye",
+    "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Take care"
+    ],
+    "responses": [
+        "Goodbye",
+        "See you later",
+        "Take care"
+    ]
+},
+{
+    "tag": "thanks",
+    "patterns": [
+        "Thank you",
+        "Thanks",
+        "Thanks a lot",
+        "I appreciate it"
+    ],
+    "responses": [
+        "You're welcome",
+        "No problem",
+        "Glad I could help"
+    ]
+},
+{
+    "tag": "about",
+    "patterns": [
+        "What can you do",
+        "Who are you",
+        "What are you",
+        "What is your purpose"
+    ],
+    "responses": [
+        "I am a chatbot",
+        "My purpose is to assist you",
+        "I can answer questions and provide assistance"
+    ]
+},
+{
+    "tag": "help",
+    "patterns": [
+        "Help",
+        "I need help",
+        "Can you help me",
+        "What should I do"
+    ],
+    "responses": [
+        "Sure, what do you need help with?",
+        "I'm here to help. What's the problem?",
+        "How can I assist you?"
+    ]
+},
+{
+    "tag": "age",
+    "patterns": [
+        "How old are you",
+        "What's your age"
+    ],
+    "responses": [
+        "I don't have an age. I'm a chatbot.",
+        "I was just born in the digital world.",
+        "Age is just a number for me."
+    ]
+},
+  {
+    "tag": "greeting",
+    "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "How are you",
+        "What's up"
+    ],
+    "responses": [
+        "Hi there",
+        "Hello",
+        "Hey",
+        "I'm fine, thank you",
+        "Nothing much"
+    ]
+},
+  {
+    "tag": "greeting",
+    "patterns": ["Hi", "Hello", "Hey there", "Good morning", "Good evening"],
+    "responses": ["Hello! How can I assist you with your health today?", "Hi there! What symptoms are you experiencing?"]
+  },
+  {
+    "tag": "fever",
+    "patterns": ["I have a fever", "I feel hot", "My temperature is high", "Do I have a fever?"],
+    "responses": [
+      "Fever can be caused by various conditions. Do you also have symptoms like chills or body aches?",
+      "It sounds like you may have a fever. Have you checked your temperature?"
+    ]
+  },
+  {
+    "tag": "cough",
+    "patterns": ["I have a cough", "I can't stop coughing", "What should I do for a cough?", "Cough remedies?"],
+    "responses": [
+      "Coughing can be caused by a cold, allergies, or other factors. Are you experiencing any other symptoms, such as a sore throat or shortness of breath?",
+      "For a mild cough, staying hydrated and using throat lozenges may help. If it persists, consult a doctor."
+    ]
+  },
+  {
+    "tag": "headache",
+    "patterns": ["I have a headache", "My head hurts", "What can I do for a headache?", "Severe headache remedies?"],
+    "responses": [
+      "Headaches can be caused by stress, dehydration, or other factors. Have you tried drinking water or resting in a quiet space?",
+      "For persistent or severe headaches, it’s best to consult a healthcare provider."
+    ]
+  },
+  {
+    "tag": "stomach_pain",
+    "patterns": ["I have stomach pain", "My stomach hurts", "What can I do for stomach ache?", "Stomach cramps remedies?"],
+    "responses": [
+      "Stomach pain can have various causes. Do you have nausea, vomiting, or diarrhea along with it?",
+      "If the pain is mild, you can try resting and avoiding heavy meals. For severe or persistent pain, consult a doctor."
+    ]
+  },
+  {
+    "tag": "cold",
+    "patterns": ["I have a cold", "I'm sneezing a lot", "What should I do for a cold?", "Cold remedies?"],
+    "responses": [
+      "A cold is often caused by a virus. Rest, stay hydrated, and consider using over-the-counter cold medications to alleviate symptoms.",
+      "If your symptoms worsen or persist for more than a week, consider consulting a healthcare professional."
+    ]
+  },
+  {
+    "tag": "skin_rash",
+    "patterns": ["I have a skin rash", "My skin is red and itchy", "What should I do for a rash?", "Is this rash serious?"],
+    "responses": [
+      "Skin rashes can have many causes, including allergies or infections. Avoid scratching the area and consider applying a mild moisturizer or anti-itch cream.",
+      "If the rash spreads or is accompanied by fever, consult a doctor immediately."
+    ]
+  },
+  {
+    "tag": "emergency",
+    "patterns": ["I'm having chest pain", "I'm feeling short of breath", "I think this is an emergency", "Help! It's serious"],
+    "responses": [
+      "Chest pain or shortness of breath could be a medical emergency. Please call emergency services or visit the nearest hospital immediately.",
+      "This sounds serious. Please seek immediate medical attention."
+    ]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": ["Goodbye", "Bye", "Thank you", "See you later"],
+    "responses": ["Take care! Feel free to reach out if you need further assistance.", "Goodbye! Wishing you good health."]
+  }
+,
+    {
+      "tag": "general_health",
+      "patterns": [
+        "How can I stay healthy?",
+        "What are the tips for good health?",
+        "How can I maintain a healthy lifestyle?",
+        "What is the best way to stay fit?",
+        "How do I stay healthy as I age?",
+        "What should I do to improve my health?",
+        "How can I be healthier?"
+      ],
+      "responses": [
+        "To stay healthy, focus on a balanced diet, exercise regularly, manage stress, stay hydrated, and get enough sleep.",
+        "Maintaining a healthy lifestyle includes eating nutritious foods, staying active, and avoiding harmful habits.",
+        "For a healthy lifestyle, aim for a well-balanced diet, physical activity, proper sleep, and regular medical checkups.",
+        "Exercise, a balanced diet, and mental well-being are key to good health."
+      ]
+    },
+    {
+      "tag": "symptoms_flu",
+      "patterns": [
+        "What are the symptoms of the flu?",
+        "How do I know if I have the flu?",
+        "What are the signs of flu infection?",
+        "How can I tell if I have the flu or a cold?",
+        "What is the difference between flu and cold symptoms?"
+      ],
+      "responses": [
+        "The symptoms of the flu include fever, chills, body aches, sore throat, fatigue, and cough.",
+        "Common signs of the flu include sudden onset of fever, chills, sore throat, cough, body aches, and tiredness.",
+        "Flu symptoms often include high fever, headache, chills, sore throat, muscle aches, and dry cough.",
+        "A cold typically has milder symptoms like a runny nose and sore throat, whereas the flu often involves higher fever and body aches."
+      ]
+    },
+    {
+      "tag": "exercise_benefits",
+      "patterns": [
+        "What are the benefits of exercise?",
+        "Why should I exercise regularly?",
+        "How does exercise improve health?",
+        "What are the physical benefits of working out?",
+        "How does exercise affect mental health?",
+        "Can exercise help with weight loss?"
+      ],
+      "responses": [
+        "Exercise improves cardiovascular health, boosts mood, strengthens muscles, and promotes weight loss.",
+        "Regular exercise helps reduce the risk of chronic diseases, improves mental health, and increases life expectancy.",
+        "Exercise increases your energy levels, improves sleep, reduces stress, and enhances overall health.",
+        "Exercise also plays a crucial role in mental health by reducing anxiety, depression, and stress while boosting self-esteem."
+      ]
+    },
+    {
+      "tag": "balanced_diet",
+      "patterns": [
+        "What is a balanced diet?",
+        "Can you explain a balanced diet?",
+        "What foods should be included in a balanced diet?",
+        "What is the importance of a balanced diet?",
+        "How do I start a balanced diet?"
+      ],
+      "responses": [
+        "A balanced diet includes a variety of foods: fruits, vegetables, lean proteins, whole grains, and healthy fats.",
+        "A balanced diet is essential for good health and energy. It includes all food groups in the right proportions.",
+        "A healthy, balanced diet includes nutrient-dense foods like fruits, vegetables, whole grains, protein sources, and healthy fats.",
+        "To start a balanced diet, try to incorporate more whole foods like vegetables, lean proteins, and healthy fats while limiting processed foods and sugars."
+      ]
+    },
+    {
+      "tag": "hydration",
+      "patterns": [
+        "How much water should I drink daily?",
+        "What happens if I don’t drink enough water?",
+        "How can I stay hydrated?",
+        "What are the signs of dehydration?",
+        "How can I improve my hydration?"
+      ],
+      "responses": [
+        "You should drink at least 8 glasses (2 liters) of water a day, but this may vary based on activity level and climate.",
+        "Dehydration can cause headaches, dry mouth, dizziness, and fatigue. It’s important to drink water regularly.",
+        "Staying hydrated involves drinking water throughout the day, eating water-rich foods like fruits and vegetables, and avoiding too much caffeine or alcohol.",
+        "To improve hydration, carry a water bottle with you and sip water consistently throughout the day, and increase intake during hot weather or exercise."
+      ]
+    },
+    {
+      "tag": "mental_health",
+      "patterns": [
+        "How can I improve my mental health?",
+        "What are some mental health tips?",
+        "How can I reduce stress?",
+        "How can I improve my mood?",
+        "What can I do for anxiety?",
+        "How do I manage depression?"
+      ],
+      "responses": [
+        "Mental health can be improved by practicing mindfulness, staying connected with loved ones, and seeking professional support when needed.",
+        "Stress reduction techniques include deep breathing, meditation, regular physical activity, and prioritizing relaxation.",
+        "Improving mood involves getting enough sleep, exercising, eating well, and engaging in activities that bring joy.",
+        "For anxiety and depression, consider practicing relaxation techniques, seeking therapy, and staying active. It’s also important to avoid isolation and seek support."
+      ]
+    },
+    {
+      "tag": "sleep_health",
+      "patterns": [
+        "How many hours of sleep do I need?",
+        "What happens if I don’t get enough sleep?",
+        "How can I improve my sleep quality?",
+        "What are the effects of poor sleep?",
+        "How do I sleep better at night?"
+      ],
+      "responses": [
+        "Most adults need 7-9 hours of sleep per night to maintain optimal health.",
+        "Lack of sleep can lead to fatigue, poor concentration, weakened immune function, and increased stress.",
+        "To improve sleep quality, establish a consistent bedtime routine, avoid caffeine and electronics before bed, and ensure your sleep environment is comfortable.",
+        "The effects of poor sleep can include mood swings, reduced cognitive function, a weakened immune system, and increased risk for chronic conditions."
+      ]
+    },
+    {
+      "tag": "healthy_weight_loss",
+      "patterns": [
+        "How can I lose weight in a healthy way?",
+        "What is the best diet for weight loss?",
+        "Can I lose weight without dieting?",
+        "How do I start losing weight?",
+        "How can I lose weight fast?",
+        "What is the healthiest way to lose weight?"
+      ],
+      "responses": [
+        "To lose weight healthily, focus on eating a balanced diet with a slight calorie deficit and engage in regular physical activity.",
+        "Healthy weight loss involves gradual changes, such as reducing calorie intake and incorporating exercise into your daily routine.",
+        "The best way to lose weight is to make sustainable changes in your eating habits and increase your physical activity level.",
+        "Losing weight too quickly can be harmful to your health. Aim for steady progress with a focus on healthy eating and exercise."
+      ]
+    },
+    {
+      "tag": "chronic_conditions",
+      "patterns": [
+        "What are the signs of diabetes?",
+        "How do I manage high blood pressure?",
+        "What should I do if I have high cholesterol?",
+        "What are the symptoms of asthma?",
+        "How do I manage arthritis?",
+        "What is the treatment for heart disease?"
+      ],
+      "responses": [
+        "Signs of diabetes include frequent urination, excessive thirst, fatigue, and blurred vision.",
+        "Managing high blood pressure involves following a healthy diet, exercising, reducing stress, and taking prescribed medications.",
+        "If you have high cholesterol, focus on eating heart-healthy foods, exercising, and taking medication as prescribed by your doctor.",
+        "Asthma symptoms include shortness of breath, wheezing, coughing, and chest tightness.",
+        "Arthritis management includes exercise, physical therapy, pain relievers, and in some cases, anti-inflammatory medications.",
+        "Heart disease treatment often involves lifestyle changes such as diet and exercise, as well as medications and, in some cases, surgery."
+      ]
+    },
+    {
+      "tag": "preventive_care",
+      "patterns": [
+        "Why is preventive care important?",
+        "What are examples of preventive care?",
+        "How often should I get a checkup?",
+        "What screenings should I have done annually?",
+        "What vaccinations do I need?"
+      ],
+      "responses": [
+        "Preventive care is important because it helps detect potential health issues early before they become serious.",
+        "Examples of preventive care include regular checkups, screenings for cancers, and staying up-to-date on vaccinations.",
+        "It’s recommended to have a checkup at least once a year to monitor your overall health and catch any potential problems early.",
+        "Screenings may include blood pressure checks, cholesterol tests, cancer screenings, and immunizations. Speak to your doctor about the best schedule for you.",
+        "Vaccinations are important for preventing diseases. Stay up to date on routine vaccines and consult your healthcare provider for any special ones."
+      ]
+    },
+    {
+      "tag": "allergy",
+      "patterns": [
+        "What are common allergy symptoms?",
+        "How do I know if I have an allergy?",
+        "What should I do if I have an allergy?",
+        "How can I manage seasonal allergies?",
+        "Can allergies be cured?"
+      ],
+      "responses": [
+        "Common allergy symptoms include sneezing, itching, congestion, runny nose, watery eyes, and skin rashes.",
+        "To determine if you have an allergy, you may need to visit a doctor for tests or an allergy test.",
+        "Managing allergies includes avoiding triggers, using antihistamines, and following your doctor’s recommendations.",
+        "Seasonal allergies can be managed with antihistamines, nasal sprays, and staying indoors during high pollen seasons.",
+        "There is no cure for allergies, but they can be managed effectively with medication and avoiding triggers."
+      ]
+    }
+  ]
